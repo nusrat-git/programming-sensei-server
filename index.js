@@ -19,6 +19,16 @@ app.get('/classes/:id', (req, res) => {
     const selected = classes.filter(cls => cls.category_id == id);
     res.send(selected);
 })
+app.get('/class/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedDetail = classes.find(cls => cls.id == id);
+    res.send(selectedDetail);
+})
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedDetail = classes.find(cls => cls.id == id);
+    res.send(selectedDetail);
+})
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
