@@ -1,0 +1,128 @@
+[
+    {
+        "id": "6357ad897baf42755aacfbf1",
+        "category_id": 1,
+        "category_name": "Python",
+        "class_name":"Python for data science",
+        "class_img":"/images/python1.png"
+    },
+    {
+        "id": "6357ad897deb3fffae7ca9b1",
+        "category_id": 1,
+        "category_name": "Python",
+        "class_name":"Python data analysis",
+        "class_img":"/images/python2.jpg"
+    },
+    {
+        "id": "6357ad89900b726f072c9e4c",
+        "category_id": 1,
+        "category_name": "Python",
+        "class_name":"Python for beginners",
+        "class_img":"/images/python3.jpg"
+    },
+    {
+        "id": "6357ad89f71991c4196a80a1",
+        "category_id": 2,
+        "category_name": "C#",
+        "class_name":"C# Fundamentals",
+        "class_img":"/images/c#1.jpg"
+    },
+    {
+        "id": "6357ad891ea48ddfda6a013f",
+        "category_id": 2,
+        "category_name": "C#",
+        "class_name":"C# From Beginner To Pro",
+        "class_img":"/images/c#2.jpg"
+    },
+    {
+        "id": "6357ad89f7811df301464b81",
+        "category_id": 2,
+        "category_name": "C#",
+        "class_name":"Introduction to TDD in C#",
+        "class_img":"/images/c#3.jpg"
+    },
+    {
+        "id": "6357ad891ee60da280999228",
+        "category_id": 3,
+        "category_name": "C++",
+        "class_name":"Beginning C++ Programming",
+        "class_img":"/images/c++1.jpg"
+    },
+    {
+        "id": "6357ad89bca240c0843c1485",
+        "category_id": 3,
+        "category_name": "C++",
+        "class_name":"Unreal Engine C++ Developer",
+        "class_img":"/images/c++2.jpg"
+    },
+    {
+        "id": "6357ad890d6209a720b0010a",
+        "category_id": 3,
+        "category_name": "C++",
+        "class_name":"Learn C++ Programming – Beginner to Advance",
+        "class_img":"/images/c++3.jpg"
+    },
+    {
+        "id": "6357ad89c57f11ad4075296e",
+        "category_id": 4,
+        "category_name": "PHP",
+        "class_name":"Building Web Applications in PHP",
+        "class_img":"/images/php1.jpg"
+    },
+    {
+        "id": "6357ad89d62f166bb6955081",
+        "category_id": 4,
+        "category_name": "PHP",
+        "class_name":"PHP for Beginners",
+        "class_img":"/images/php2.jpg"
+    },
+    {
+        "id": "6357ad891c30007827112d4c",
+        "category_id": 4,
+        "category_name": "PHP",
+        "class_name":"Object-Oriented PHP Learning",
+        "class_img":"/images/php3.jpg"
+    },
+    {
+        "id": "6357ad89fddb8687a1e86bc0",
+        "category_id": 5,
+        "category_name": "Java",
+        "class_name":"The Complete Java Masterclass",
+        "class_img":"/images/java1.jpg"
+    },
+    {
+        "id": "6357ad89c9fd46dc76401882",
+        "category_id": 5,
+        "category_name": "Java",
+        "class_name":"Java Fundamentals",
+        "class_img":"/images/java2.jpg"
+    },
+    {
+        "id": "6357ad8946c7f670e69d0b14",
+        "category_id": 5,
+        "category_name": "Java",
+        "class_name":"Java In-Depth",
+        "class_img":"/images/java3.jpg"
+    },
+    {
+        "id": "6357ad89fd1c6a11a992f32d",
+        "category_id": 6,
+        "category_name": "Ruby",
+        "class_name":"Full Stack Ruby on Rails",
+        "class_img":"/images/ruby1.jpg"
+    },
+    {
+        "id": "6357ad89859982e72d5bd255",
+        "category_id": 6,
+        "category_name": "Ruby",
+        "class_name":"Ruby Primer",
+        "class_img":"/images/ruby2.jpg"
+    },
+    {
+        "id": "6357ad89bc00279b707a92dd",
+        "category_id": 6,
+        "category_name": "Ruby",
+        "class_name":"Learn Ruby",
+        "class_img":"/images/ruby3.jpg"
+    }
+]
