@@ -10,12 +10,14 @@ const categories = require('./data/categories.json');
 const classes = require('./data/classes.json');
 
 
-app.get('/categories', (req, res) => {
+app.get('/classes', (req, res) => {
     res.send(categories)
 })
 
-app.get('/classes', (req, res) => {
-    res.send(classes)
+app.get('/classes/:id', (req, res) => {
+    const id = req.params.id;
+    const selected = classes.filter(cls => cls.category_id == id);
+    res.send(selected);
 })
 
 app.listen(port, () => {
