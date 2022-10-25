@@ -1,26 +1,32 @@
 [
     {
         "id" : 1 ,
-        "name" : "Python"
+        "name" : "Python",
+        "img": "https://i.ibb.co/3hmM0WP/rsz-python-symbol.png"
     },
     {
         "id" : 2 ,
-        "name" : "C#"
+        "name" : "C#",
+        "img": "https://i.ibb.co/nnxvK1f/rsz-c-sharp.png"
     },
     {
         "id" : 3 ,
-        "name" : "C++"
+        "name" : "C++",
+        "img": "https://i.ibb.co/th48hnN/rsz-iso-c-logosvg.png"
     },
     {
         "id" : 4 ,
-        "name" : "PHP"
+        "name" : "PHP",
+        "img": "https://i.ibb.co/8grXDZN/PHP-logo-svg.png"
     },
     {
         "id" : 5 ,
-        "name" : "Java"
+        "name" : "Java",
+        "img": "https://i.ibb.co/4fbHM4t/rsz-java-logo.png"
     },
     {
         "id" : 6 ,
-        "name" : "Ruby"
+        "name" : "Ruby",
+        "img": "https://i.ibb.co/vw9mRbm/rsz-1concept-logo-ruby-by-ssaazz-d9cvdyf-fullview.png"
     }
 ]
