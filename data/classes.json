@@ -112,7 +112,7 @@
         "category_id": 5,
         "category_name": "Java",
         "class_name":"The Complete Java Masterclass",
-        "class_img":"https://i.ibb.co/F4JkKv3/java1.jpg",
+        "class_img":"https://i.ibb.co/qk9ZFPm/rsz-java-logo-1.png",
         "class_price": "75$",
         "description": "Be a master with java master classes"
     },
@@ -121,7 +121,7 @@
         "category_id": 5,
         "category_name": "Java",
         "class_name":"Java Fundamentals",
-        "class_img":"https://i.ibb.co/SJjspjW/java2.jpg",
+        "class_img":"https://i.ibb.co/QHRpnwL/rsz-maxresdefault.jpg",
         "class_price": "45$",
         "description": "Learn the basics of java"
     },
@@ -130,7 +130,7 @@
         "category_id": 5,
         "category_name": "Java",
         "class_name":"Java In-Depth",
-        "class_img":"https://i.ibb.co/12sRSMd/java3.jpg",
+        "class_img":"https://i.ibb.co/sbCCKQj/rsz-maxresdefault-1.jpg",
         "class_price": "60$",
         "description": "Be a pro of java and learn in depth"
     },
