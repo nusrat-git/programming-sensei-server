@@ -5,7 +5,8 @@
         "category_name": "Python",
         "class_name":"Python for data science",
         "class_img":"https://i.ibb.co/tM6CT8T/c-1.jpg",
-        "class_price": "30$"
+        "class_price": "30$",
+        "description": "Start Your Own Data Science In Seconds. Python for data science python. Try 350 Free Chapters. "
     },
     {
         "id": "6357ad897deb3fffae7ca9b1",
@@ -13,7 +14,8 @@
         "category_name": "Python",
         "class_name":"Python data analysis",
         "class_img":"https://i.ibb.co/yqspqSD/c-2.jpg",
-        "class_price": "35$"
+        "class_price": "35$",
+        "description": "Start Your Own Data Analysis In Seconds. Python for data science python. Try 350 Free Chapters. "
     },
     {
         "id": "6357ad89900b726f072c9e4c",
@@ -21,7 +23,8 @@
         "category_name": "Python",
         "class_name":"Python for beginners",
         "class_img":"https://i.ibb.co/kczrDRF/c-3.jpg",
-        "class_price": "30$"
+        "class_price": "30$",
+        "description": "Start learning python and become python pro "
     },
     {
         "id": "6357ad89f71991c4196a80a1",
@@ -29,7 +32,8 @@
         "category_name": "C#",
         "class_name":"C# Fundamentals",
         "class_img":"https://i.ibb.co/52vgV2X/c-1.jpg",
-        "class_price": "50$"
+        "class_price": "50$",
+        "description": "Learn the basics of c#"
     },
     {
         "id": "6357ad891ea48ddfda6a013f",
@@ -37,7 +41,8 @@
         "category_name": "C#",
         "class_name":"C# From Beginner To Pro",
         "class_img":"https://i.ibb.co/D9wRhQ6/c-2.jpg",
-        "class_price": "40$"
+        "class_price": "40$",
+        "description": "Start your journey of c# as a beginner"
     },
     {
         "id": "6357ad89f7811df301464b81",
@@ -45,7 +50,8 @@
         "category_name": "C#",
         "class_name":"Introduction to TDD in C#",
         "class_img":"https://i.ibb.co/ZND3JSB/c-3.jpg",
-        "class_price": "45$"
+        "class_price": "45$",
+        "description": "Start Your Own TDD In Seconds. C# for TDD. "
     },
     {
         "id": "6357ad891ee60da280999228",
@@ -53,7 +59,8 @@
         "category_name": "C++",
         "class_name":"Beginning C++ Programming",
         "class_img":"https://i.ibb.co/F4JkKv3/java1.jpg",
-        "class_price": "35$"
+        "class_price": "35$",
+        "description": "Programming with C++ in just 60days"
     },
     {
         "id": "6357ad89bca240c0843c1485",
@@ -61,7 +68,8 @@
         "category_name": "C++",
         "class_name":"Unreal Engine C++ Developer",
         "class_img":"https://i.ibb.co/SJjspjW/java2.jpg",
-        "class_price": "70$"
+        "class_price": "70$",
+        "description": "Enigine developing with C++"
     },
     {
         "id": "6357ad890d6209a720b0010a",
@@ -69,7 +77,8 @@
         "category_name": "C++",
         "class_name":"Learn C++ Programming – Beginner to Advance",
         "class_img":"https://i.ibb.co/12sRSMd/java3.jpg",
-        "class_price": "45$"
+        "class_price": "45$",
+        "description": "Your journey to beginner to pro with C++"
     },
     {
         "id": "6357ad89c57f11ad4075296e",
@@ -77,7 +86,8 @@
         "category_name": "PHP",
         "class_name":"Building Web Applications in PHP",
         "class_img":"https://i.ibb.co/VN1FCM5/php1.jpg",
-        "class_price": "55$"
+        "class_price": "55$",
+        "description": "Develop app with PHP"
     },
     {
         "id": "6357ad89d62f166bb6955081",
@@ -85,7 +95,8 @@
         "category_name": "PHP",
         "class_name":"PHP for Beginners",
         "class_img":"https://i.ibb.co/N9YtWDW/php2.jpg",
-        "class_price": "30$"
+        "class_price": "30$",
+        "description": "Start your journey with PHP as a beginner"
     },
     {
         "id": "6357ad891c30007827112d4c",
@@ -93,7 +104,8 @@
         "category_name": "PHP",
         "class_name":"Object-Oriented PHP Learning",
         "class_img":"https://i.ibb.co/dMcJVpD/php3.jpg",
-        "class_price": "70$"
+        "class_price": "70$",
+        "description": "Object orienting In Seconds. PHP for object orienting"
     },
     {
         "id": "6357ad89fddb8687a1e86bc0",
@@ -101,7 +113,8 @@
         "category_name": "Java",
         "class_name":"The Complete Java Masterclass",
         "class_img":"https://i.ibb.co/Sn8sbwx/python1.png",
-        "class_price": "75$"
+        "class_price": "75$",
+        "description": "Be a master with java master classes"
     },
     {
         "id": "6357ad89c9fd46dc76401882",
@@ -109,7 +122,8 @@
         "category_name": "Java",
         "class_name":"Java Fundamentals",
         "class_img":"https://i.ibb.co/qLS5JYG/python2.jpg",
-        "class_price": "45$"
+        "class_price": "45$",
+        "description": "Learn the basics of java"
     },
     {
         "id": "6357ad8946c7f670e69d0b14",
@@ -117,7 +131,8 @@
         "category_name": "Java",
         "class_name":"Java In-Depth",
         "class_img":"https://i.ibb.co/FzqxG5r/python3.jpg",
-        "class_price": "60$"
+        "class_price": "60$",
+        "description": "Be a pro of java and learn in depth"
     },
     {
         "id": "6357ad89fd1c6a11a992f32d",
@@ -125,7 +140,8 @@
         "category_name": "Ruby",
         "class_name":"Full Stack Ruby on Rails",
         "class_img":"https://i.ibb.co/4f6xbCs/ruby1.jpg",
-        "class_price": "50$"
+        "class_price": "50$",
+        "description": "Learn the everything of ruby"
     },
     {
         "id": "6357ad89859982e72d5bd255",
@@ -133,7 +149,8 @@
         "category_name": "Ruby",
         "class_name":"Ruby Primer",
         "class_img":"https://i.ibb.co/znx9vb1/ruby2.jpg",
-        "class_price": "70$"
+        "class_price": "70$",
+        "description": "Learn ruby primer with prime subscription"
     },
     {
         "id": "6357ad89bc00279b707a92dd",
@@ -141,6 +158,7 @@
         "category_name": "Ruby",
         "class_name":"Learn Ruby",
         "class_img":"https://i.ibb.co/7QNQTJW/ruby3.jpg",
-        "class_price": "40$"
+        "class_price": "40$",
+        "description": "Basics of ruby in just 50days"
     }
 ]
